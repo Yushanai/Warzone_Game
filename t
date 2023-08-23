@@ -1,0 +1,1 @@
+tournament -M l europe.map Asia_1200.map -P aggressive neutral cheater benevolent -G 4 -D 10

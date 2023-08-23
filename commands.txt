@@ -1,0 +1,10 @@
+loadmap
+europe.map
+validatemap
+validatemap
+addplayer
+a1
+addplayer
+a2
+loadmap lp.map
+gamestart
